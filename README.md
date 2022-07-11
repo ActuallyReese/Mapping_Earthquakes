@@ -3,6 +3,9 @@
 ## Purpose
 ### The purpose of this webpage is to display a map that displays tectonic plate data, earthquake data, and major earthquake data (magnitude greater than 4.5). The map has three styles, and all of these features are toggleable.
 
+![image](https://user-images.githubusercontent.com/40220871/178181658-48fb5c2a-a0da-44c4-8d7a-18c14c2a476e.png)
+
+
 ## Summary
 ### While the map is fine as it is, the legend at the bottom right does not update when changing to major earthquake data. It isn't a big issue, but it limits the color options available for the major earthquake data, and could make things confusing. An improvement could be made to have the legend also be attached to the toggles, like the other data.
 ![image](https://user-images.githubusercontent.com/40220871/178172943-358f5baa-85d5-4895-88d8-747a379f24d6.png)
